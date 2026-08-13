@@ -1,0 +1,251 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "swc",
+          "description": "TypeScript/JavaScript compiler in Rust.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T15:07:26Z",
+            "owner": "swc-project",
+            "repo": "swc",
+            "stars": 34181
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Relay",
+          "description": "JavaScript framework for building data-driven React applications, compiler in Rust.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T21:31:20Z",
+            "owner": "facebook",
+            "repo": "relay",
+            "stars": 18955
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Closure Compiler",
+          "description": "in Java.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-13T15:54:14Z",
+            "owner": "google",
+            "repo": "closure-compiler",
+            "stars": 7672
+          }
+        }
+      ],
+      "title": "Compilers"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Boa",
+          "description": "Embeddable and experimental Javascript engine, written in Rust.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-10T05:54:39Z",
+            "owner": "boa-dev",
+            "repo": "boa",
+            "stars": 7476
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Goja",
+          "description": "ECMAScript/JavaScript engine, written in Go .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-06T11:51:07Z",
+            "owner": "dop251",
+            "repo": "goja",
+            "stars": 7044
+          }
+        }
+      ],
+      "title": "Engines"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "RSLint",
+          "description": "Extremely fast JavaScript and TypeScript linter, written in Rust. (WIP)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2023-03-05T13:40:47Z",
+            "owner": "rslint",
+            "repo": "rslint",
+            "stars": 2731
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Deno Lint",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-23T12:51:44Z",
+            "owner": "denoland",
+            "repo": "deno_lint",
+            "stars": 1585
+          }
+        }
+      ],
+      "title": "Linters"
+    },
+    {
+      "description": "If you can think of a more appropriate category for the items below, PRs welcome!",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Turborepo",
+          "description": "The high-performance build system for JavaScript & TypeScript codebases, written in Go, 🚧 currently being migrated to Rust (source).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T14:06:50Z",
+            "owner": "vercel",
+            "repo": "turborepo",
+            "stars": 30894
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fast Node Manager (fnm)",
+          "description": "Node.js version manager, written in Rust.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-24T14:28:38Z",
+            "owner": "Schniz",
+            "repo": "fnm",
+            "stars": 26559
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Wrangler",
+          "description": "CLI tool to develop Clouflare Workers, written in Rust.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Rust",
+            "last_commit": "2023-08-03T18:15:03Z",
+            "owner": "cloudflare",
+            "repo": "wrangler-legacy",
+            "stars": 3193
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Blueboat",
+          "description": "all-in-one, multi-tenant serverless JavaScript runtime, written in Rust.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2023-02-23T01:32:48Z",
+            "owner": "losfair",
+            "repo": "blueboat",
+            "stars": 1924
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Proto",
+          "description": "A multi-language version and dependency manager, written in Rust.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-10T16:49:00Z",
+            "owner": "moonrepo",
+            "repo": "proto",
+            "stars": 1380
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "es-module-lexer",
+          "description": "JavaScript module syntax lexer, written in C.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-10T12:44:38Z",
+            "owner": "guybedford",
+            "repo": "es-module-lexer",
+            "stars": 1030
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Volt",
+          "description": "JavaScript Package Manager, written in Rust.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-05-29T21:18:09Z",
+            "owner": "suptejas",
+            "repo": "volt",
+            "stars": 924
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "npm-dep-check-rust",
+          "description": "Find unused dependencies in Node.js applications, written in Rust.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2022-06-01T07:22:08Z",
+            "owner": "saiumesh535",
+            "repo": "npm-dep-chek-rust",
+            "stars": 11
+          }
+        }
+      ],
+      "title": "Miscellaneous"
+    },
+    {
+      "description": "Contributions welcome! Read the contribution guidelines first.",
+      "items": [],
+      "title": "Contribute"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T17:08:32.754Z",
+    "original_repository": "RobinCsl/awesome-js-tooling-not-in-js",
+    "original_repository_sha": "8ac1270211de54956d1335a63d56772f4a99e964",
+    "enhanced_repository": "enhansome/enhansome-js-tooling-not-in-js",
+    "enhanced_repository_description": null,
+    "title": "Awesome JS Tooling not in JS with stars"
+  }
+}
