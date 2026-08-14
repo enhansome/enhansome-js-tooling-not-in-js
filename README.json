@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-12T15:07:26Z",
+            "last_commit": "2026-08-14T16:36:55Z",
             "owner": "swc-project",
             "repo": "swc",
-            "stars": 34181
+            "stars": 34177
           }
         },
         {
@@ -25,10 +25,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-12T21:31:20Z",
+            "last_commit": "2026-08-13T19:42:31Z",
             "owner": "facebook",
             "repo": "relay",
-            "stars": 18955
+            "stars": 18956
           }
         },
         {
@@ -39,7 +39,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-13T15:54:14Z",
+            "last_commit": "2026-08-14T16:17:38Z",
             "owner": "google",
             "repo": "closure-compiler",
             "stars": 7672
@@ -76,7 +76,7 @@
             "last_commit": "2026-08-06T11:51:07Z",
             "owner": "dop251",
             "repo": "goja",
-            "stars": 7044
+            "stars": 7045
           }
         }
       ],
@@ -127,10 +127,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-13T14:06:50Z",
+            "last_commit": "2026-08-14T16:59:31Z",
             "owner": "vercel",
             "repo": "turborepo",
-            "stars": 30894
+            "stars": 30892
           }
         },
         {
@@ -144,7 +144,7 @@
             "last_commit": "2026-07-24T14:28:38Z",
             "owner": "Schniz",
             "repo": "fnm",
-            "stars": 26559
+            "stars": 26569
           }
         },
         {
@@ -158,7 +158,7 @@
             "last_commit": "2023-08-03T18:15:03Z",
             "owner": "cloudflare",
             "repo": "wrangler-legacy",
-            "stars": 3193
+            "stars": 3192
           }
         },
         {
@@ -186,7 +186,7 @@
             "last_commit": "2026-08-10T16:49:00Z",
             "owner": "moonrepo",
             "repo": "proto",
-            "stars": 1380
+            "stars": 1382
           }
         },
         {
@@ -241,7 +241,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T17:08:32.754Z",
+    "last_updated": "2026-08-14T17:06:36.823Z",
     "original_repository": "RobinCsl/awesome-js-tooling-not-in-js",
     "original_repository_sha": "8ac1270211de54956d1335a63d56772f4a99e964",
     "enhanced_repository": "enhansome/enhansome-js-tooling-not-in-js",
