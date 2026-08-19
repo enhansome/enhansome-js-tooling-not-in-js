@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 115110181,
             "language": "Rust",
-            "last_commit": "2026-08-18T12:54:43Z",
+            "last_commit": "2026-08-19T05:22:30Z",
             "owner": "swc-project",
             "repo": "swc",
-            "stars": 34177
+            "stars": 34179
           }
         },
         {
@@ -24,11 +25,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 40508605,
             "language": "Rust",
-            "last_commit": "2026-08-18T05:04:44Z",
+            "last_commit": "2026-08-19T00:11:25Z",
             "owner": "facebook",
             "repo": "relay",
-            "stars": 18954
+            "stars": 18955
           }
         },
         {
@@ -38,18 +40,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 18845024,
             "language": "JavaScript",
-            "last_commit": "2026-08-18T16:45:26Z",
+            "last_commit": "2026-08-18T22:42:40Z",
             "owner": "google",
             "repo": "closure-compiler",
-            "stars": 7673
+            "stars": 7672
           }
         }
       ],
       "title": "Compilers"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -58,11 +61,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 144073539,
             "language": "Rust",
             "last_commit": "2026-08-15T08:06:49Z",
             "owner": "boa-dev",
             "repo": "boa",
-            "stars": 7486
+            "stars": 7488
           }
         },
         {
@@ -72,18 +76,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 72888736,
             "language": "Go",
             "last_commit": "2026-08-06T11:51:07Z",
             "owner": "dop251",
             "repo": "goja",
-            "stars": 7052
+            "stars": 7053
           }
         }
       ],
       "title": "Engines"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -92,6 +97,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 253669507,
             "language": "Rust",
             "last_commit": "2023-03-05T13:40:47Z",
             "owner": "rslint",
@@ -106,6 +112,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 250790125,
             "language": "Rust",
             "last_commit": "2026-07-23T12:51:44Z",
             "owner": "denoland",
@@ -126,11 +133,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 413918947,
             "language": "Rust",
-            "last_commit": "2026-08-18T16:25:14Z",
+            "last_commit": "2026-08-18T22:28:56Z",
             "owner": "vercel",
             "repo": "turborepo",
-            "stars": 30907
+            "stars": 30933
           }
         },
         {
@@ -140,11 +148,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 166045424,
             "language": "Rust",
             "last_commit": "2026-07-24T14:28:38Z",
             "owner": "Schniz",
             "repo": "fnm",
-            "stars": 26600
+            "stars": 26614
           }
         },
         {
@@ -154,6 +163,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 175043545,
             "language": "Rust",
             "last_commit": "2023-08-03T18:15:03Z",
             "owner": "cloudflare",
@@ -168,6 +178,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 325985449,
             "language": "Rust",
             "last_commit": "2023-02-23T01:32:48Z",
             "owner": "losfair",
@@ -182,11 +193,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 602787735,
             "language": "Rust",
-            "last_commit": "2026-08-18T16:07:21Z",
+            "last_commit": "2026-08-18T23:22:58Z",
             "owner": "moonrepo",
             "repo": "proto",
-            "stars": 1392
+            "stars": 1393
           }
         },
         {
@@ -196,6 +208,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 201167785,
             "language": "JavaScript",
             "last_commit": "2026-08-17T02:26:10Z",
             "owner": "guybedford",
@@ -210,6 +223,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 366093587,
             "language": "Rust",
             "last_commit": "2026-05-29T21:18:09Z",
             "owner": "suptejas",
@@ -224,6 +238,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 367637789,
             "language": "Rust",
             "last_commit": "2022-06-01T07:22:08Z",
             "owner": "saiumesh535",
@@ -233,16 +248,12 @@
         }
       ],
       "title": "Miscellaneous"
-    },
-    {
-      "description": "Contributions welcome! Read the contribution guidelines first.",
-      "items": [],
-      "title": "Contribute"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T16:45:35.211Z",
+    "last_updated": "2026-08-19T12:36:10.004Z",
     "original_repository": "RobinCsl/awesome-js-tooling-not-in-js",
+    "original_repository_id": 357798597,
     "original_repository_sha": "8ac1270211de54956d1335a63d56772f4a99e964",
     "enhanced_repository": "enhansome/enhansome-js-tooling-not-in-js",
     "enhanced_repository_description": null,
