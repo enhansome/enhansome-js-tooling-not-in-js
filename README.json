@@ -15,7 +15,7 @@
             "last_commit": "2026-08-19T05:22:30Z",
             "owner": "swc-project",
             "repo": "swc",
-            "stars": 34179
+            "stars": 34177
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-19T00:11:25Z",
             "owner": "facebook",
             "repo": "relay",
-            "stars": 18955
+            "stars": 18954
           }
         },
         {
@@ -42,7 +42,7 @@
             "archived": false,
             "id": 18845024,
             "language": "JavaScript",
-            "last_commit": "2026-08-18T22:42:40Z",
+            "last_commit": "2026-08-19T16:26:57Z",
             "owner": "google",
             "repo": "closure-compiler",
             "stars": 7672
@@ -135,10 +135,10 @@
             "archived": false,
             "id": 413918947,
             "language": "Rust",
-            "last_commit": "2026-08-18T22:28:56Z",
+            "last_commit": "2026-08-19T16:18:19Z",
             "owner": "vercel",
             "repo": "turborepo",
-            "stars": 30933
+            "stars": 30937
           }
         },
         {
@@ -153,7 +153,7 @@
             "last_commit": "2026-07-24T14:28:38Z",
             "owner": "Schniz",
             "repo": "fnm",
-            "stars": 26614
+            "stars": 26618
           }
         },
         {
@@ -195,7 +195,7 @@
             "archived": false,
             "id": 602787735,
             "language": "Rust",
-            "last_commit": "2026-08-18T23:22:58Z",
+            "last_commit": "2026-08-19T16:15:20Z",
             "owner": "moonrepo",
             "repo": "proto",
             "stars": 1393
@@ -251,7 +251,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:36:10.004Z",
+    "last_updated": "2026-08-19T16:43:23.386Z",
     "original_repository": "RobinCsl/awesome-js-tooling-not-in-js",
     "original_repository_id": 357798597,
     "original_repository_sha": "8ac1270211de54956d1335a63d56772f4a99e964",
