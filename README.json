@@ -12,10 +12,10 @@
             "archived": false,
             "id": 115110181,
             "language": "Rust",
-            "last_commit": "2026-08-25T05:01:11Z",
+            "last_commit": "2026-08-25T16:42:11Z",
             "owner": "swc-project",
             "repo": "swc",
-            "stars": 34189
+            "stars": 34191
           }
         },
         {
@@ -135,10 +135,10 @@
             "archived": false,
             "id": 413918947,
             "language": "Rust",
-            "last_commit": "2026-08-25T01:33:30Z",
+            "last_commit": "2026-08-25T14:33:10Z",
             "owner": "vercel",
             "repo": "turborepo",
-            "stars": 31007
+            "stars": 31013
           }
         },
         {
@@ -153,7 +153,7 @@
             "last_commit": "2026-07-24T14:28:38Z",
             "owner": "Schniz",
             "repo": "fnm",
-            "stars": 26687
+            "stars": 26690
           }
         },
         {
@@ -251,7 +251,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:16:08.564Z",
+    "last_updated": "2026-08-25T16:51:25.661Z",
     "original_repository": "RobinCsl/awesome-js-tooling-not-in-js",
     "original_repository_id": 357798597,
     "original_repository_sha": "8ac1270211de54956d1335a63d56772f4a99e964",
