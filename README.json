@@ -12,10 +12,10 @@
             "archived": false,
             "id": 115110181,
             "language": "Rust",
-            "last_commit": "2026-08-27T11:43:02Z",
+            "last_commit": "2026-08-27T19:59:51Z",
             "owner": "swc-project",
             "repo": "swc",
-            "stars": 34190
+            "stars": 34189
           }
         },
         {
@@ -27,7 +27,7 @@
             "archived": false,
             "id": 40508605,
             "language": "Rust",
-            "last_commit": "2026-08-27T06:03:32Z",
+            "last_commit": "2026-08-27T23:25:50Z",
             "owner": "facebook",
             "repo": "relay",
             "stars": 18958
@@ -42,7 +42,7 @@
             "archived": false,
             "id": 18845024,
             "language": "JavaScript",
-            "last_commit": "2026-08-26T20:49:55Z",
+            "last_commit": "2026-08-27T18:35:09Z",
             "owner": "google",
             "repo": "closure-compiler",
             "stars": 7676
@@ -63,10 +63,10 @@
             "archived": false,
             "id": 144073539,
             "language": "Rust",
-            "last_commit": "2026-08-27T10:16:54Z",
+            "last_commit": "2026-08-27T23:21:16Z",
             "owner": "boa-dev",
             "repo": "boa",
-            "stars": 7502
+            "stars": 7503
           }
         },
         {
@@ -135,10 +135,10 @@
             "archived": false,
             "id": 413918947,
             "language": "Rust",
-            "last_commit": "2026-08-27T11:25:11Z",
+            "last_commit": "2026-08-27T16:36:13Z",
             "owner": "vercel",
             "repo": "turborepo",
-            "stars": 31024
+            "stars": 31025
           }
         },
         {
@@ -153,7 +153,7 @@
             "last_commit": "2026-07-24T14:28:38Z",
             "owner": "Schniz",
             "repo": "fnm",
-            "stars": 26710
+            "stars": 26713
           }
         },
         {
@@ -195,10 +195,10 @@
             "archived": false,
             "id": 602787735,
             "language": "Rust",
-            "last_commit": "2026-08-24T16:14:43Z",
+            "last_commit": "2026-08-27T21:32:06Z",
             "owner": "moonrepo",
             "repo": "proto",
-            "stars": 1400
+            "stars": 1401
           }
         },
         {
@@ -210,7 +210,7 @@
             "archived": false,
             "id": 201167785,
             "language": "JavaScript",
-            "last_commit": "2026-08-24T04:26:17Z",
+            "last_commit": "2026-08-27T13:15:01Z",
             "owner": "guybedford",
             "repo": "es-module-lexer",
             "stars": 1031
@@ -251,7 +251,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:44:48.399Z",
+    "last_updated": "2026-08-28T00:50:54.422Z",
     "original_repository_info": {
       "archived": false,
       "id": 357798597,
