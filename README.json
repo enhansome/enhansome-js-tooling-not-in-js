@@ -12,11 +12,12 @@
             "archived": false,
             "id": 115110181,
             "language": "Rust",
-            "last_commit": "2026-08-27T19:59:51Z",
+            "last_commit": "2026-08-28T06:49:28Z",
             "owner": "swc-project",
             "repo": "swc",
             "stars": 34189
-          }
+          },
+          "first_seen": "2026-08-29T00:32:35.081Z"
         },
         {
           "node_type": "item",
@@ -27,11 +28,12 @@
             "archived": false,
             "id": 40508605,
             "language": "Rust",
-            "last_commit": "2026-08-27T23:25:50Z",
+            "last_commit": "2026-08-28T22:48:23Z",
             "owner": "facebook",
             "repo": "relay",
             "stars": 18958
-          }
+          },
+          "first_seen": "2026-08-29T00:32:35.081Z"
         },
         {
           "node_type": "item",
@@ -42,11 +44,12 @@
             "archived": false,
             "id": 18845024,
             "language": "JavaScript",
-            "last_commit": "2026-08-27T18:35:09Z",
+            "last_commit": "2026-08-28T16:20:34Z",
             "owner": "google",
             "repo": "closure-compiler",
             "stars": 7676
-          }
+          },
+          "first_seen": "2026-08-29T00:32:35.081Z"
         }
       ],
       "title": "Compilers"
@@ -63,11 +66,12 @@
             "archived": false,
             "id": 144073539,
             "language": "Rust",
-            "last_commit": "2026-08-27T23:21:16Z",
+            "last_commit": "2026-08-28T19:42:33Z",
             "owner": "boa-dev",
             "repo": "boa",
-            "stars": 7503
-          }
+            "stars": 7508
+          },
+          "first_seen": "2026-08-29T00:32:35.081Z"
         },
         {
           "node_type": "item",
@@ -82,7 +86,8 @@
             "owner": "dop251",
             "repo": "goja",
             "stars": 7059
-          }
+          },
+          "first_seen": "2026-08-29T00:32:35.081Z"
         }
       ],
       "title": "Engines"
@@ -103,7 +108,8 @@
             "owner": "rslint",
             "repo": "rslint",
             "stars": 2730
-          }
+          },
+          "first_seen": "2026-08-29T00:32:35.081Z"
         },
         {
           "node_type": "item",
@@ -118,7 +124,8 @@
             "owner": "denoland",
             "repo": "deno_lint",
             "stars": 1584
-          }
+          },
+          "first_seen": "2026-08-29T00:32:35.081Z"
         }
       ],
       "title": "Linters"
@@ -135,11 +142,12 @@
             "archived": false,
             "id": 413918947,
             "language": "Rust",
-            "last_commit": "2026-08-27T16:36:13Z",
+            "last_commit": "2026-08-28T23:35:18Z",
             "owner": "vercel",
             "repo": "turborepo",
-            "stars": 31025
-          }
+            "stars": 31029
+          },
+          "first_seen": "2026-08-29T00:32:35.081Z"
         },
         {
           "node_type": "item",
@@ -153,8 +161,9 @@
             "last_commit": "2026-07-24T14:28:38Z",
             "owner": "Schniz",
             "repo": "fnm",
-            "stars": 26713
-          }
+            "stars": 26726
+          },
+          "first_seen": "2026-08-29T00:32:35.081Z"
         },
         {
           "node_type": "item",
@@ -169,7 +178,8 @@
             "owner": "cloudflare",
             "repo": "wrangler-legacy",
             "stars": 3192
-          }
+          },
+          "first_seen": "2026-08-29T00:32:35.081Z"
         },
         {
           "node_type": "item",
@@ -184,7 +194,8 @@
             "owner": "losfair",
             "repo": "blueboat",
             "stars": 1924
-          }
+          },
+          "first_seen": "2026-08-29T00:32:35.081Z"
         },
         {
           "node_type": "item",
@@ -198,8 +209,9 @@
             "last_commit": "2026-08-27T21:32:06Z",
             "owner": "moonrepo",
             "repo": "proto",
-            "stars": 1401
-          }
+            "stars": 1404
+          },
+          "first_seen": "2026-08-29T00:32:35.081Z"
         },
         {
           "node_type": "item",
@@ -213,8 +225,9 @@
             "last_commit": "2026-08-27T13:15:01Z",
             "owner": "guybedford",
             "repo": "es-module-lexer",
-            "stars": 1031
-          }
+            "stars": 1032
+          },
+          "first_seen": "2026-08-29T00:32:35.081Z"
         },
         {
           "node_type": "item",
@@ -229,7 +242,8 @@
             "owner": "suptejas",
             "repo": "volt",
             "stars": 924
-          }
+          },
+          "first_seen": "2026-08-29T00:32:35.081Z"
         },
         {
           "node_type": "item",
@@ -244,14 +258,15 @@
             "owner": "saiumesh535",
             "repo": "npm-dep-chek-rust",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-29T00:32:35.081Z"
         }
       ],
       "title": "Miscellaneous"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T00:50:54.422Z",
+    "last_updated": "2026-08-29T00:32:35.081Z",
     "original_repository_info": {
       "archived": false,
       "id": 357798597,
