@@ -48,7 +48,7 @@
             "id": 40508605,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-08-28T22:48:23Z",
+            "last_commit": "2026-08-29T18:29:40Z",
             "open_issues": 857,
             "owner": "facebook",
             "repo": "relay",
@@ -73,7 +73,7 @@
             "open_issues": 917,
             "owner": "google",
             "repo": "closure-compiler",
-            "stars": 7676,
+            "stars": 7678,
             "topics": [
               "closure-compiler",
               "javascript",
@@ -101,11 +101,11 @@
             "id": 144073539,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-08-28T19:42:33Z",
+            "last_commit": "2026-08-29T11:55:37Z",
             "open_issues": 253,
             "owner": "boa-dev",
             "repo": "boa",
-            "stars": 7508,
+            "stars": 7511,
             "topics": [
               "ecmascript",
               "hacktoberfest",
@@ -139,7 +139,7 @@
             "open_issues": 32,
             "owner": "dop251",
             "repo": "goja",
-            "stars": 7059,
+            "stars": 7061,
             "topics": [
               "golang",
               "javascript"
@@ -226,11 +226,11 @@
             "id": 413918947,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-08-29T04:32:10Z",
-            "open_issues": 14,
+            "last_commit": "2026-08-29T18:02:07Z",
+            "open_issues": 16,
             "owner": "vercel",
             "repo": "turborepo",
-            "stars": 31030,
+            "stars": 31032,
             "topics": [
               "build-system",
               "build-tool",
@@ -257,7 +257,7 @@
             "open_issues": 241,
             "owner": "Schniz",
             "repo": "fnm",
-            "stars": 26725,
+            "stars": 26730,
             "topics": [
               "hacktoberfest",
               "javascript",
@@ -333,11 +333,11 @@
             "id": 602787735,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-08-27T21:32:06Z",
-            "open_issues": 24,
+            "last_commit": "2026-08-29T17:49:58Z",
+            "open_issues": 25,
             "owner": "moonrepo",
             "repo": "proto",
-            "stars": 1404,
+            "stars": 1405,
             "topics": [
               "bun",
               "deno",
@@ -428,7 +428,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:38:51.235Z",
+    "last_updated": "2026-08-29T19:22:39.276Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of JavaScript tooling not written in JavaScript",
