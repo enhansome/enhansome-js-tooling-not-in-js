@@ -18,7 +18,7 @@
 * [Parcel](https://parceljs.org) - Web application bundler, with its JavaScript transformer written in Rust on top of swc ([source](https://parceljs.org/blog/beta3/)).
 * [Bun](https://bun.sh/) - JS, TS, JSX bundler, JS and CSS transpiler, dev server and JS runtime environment, written in Zig.
 * [Turbopack](https://turbo.build/pack) - incremental bundler optimized for JavaScript and TypeScript, written in Rust.
-* [Rspack](https://github.com/web-infra-dev/rspack) ⭐ 12,875 | 🐛 271 | 🌐 Rust | 📅 2026-08-28 – A fast web bundler (drop-in replacement for Webpack), written in Rust.
+* [Rspack](https://github.com/web-infra-dev/rspack) ⭐ 12,875 | 🐛 268 | 🌐 Rust | 📅 2026-08-29 – A fast web bundler (drop-in replacement for Webpack), written in Rust.
 
 ## Compilers
 
@@ -50,8 +50,8 @@
 
 *If you can think of a more appropriate category for the items below, PRs welcome!*
 
-* [Turborepo](https://github.com/vercel/turborepo) ⭐ 31,029 | 🐛 13 | 🌐 Rust | 📅 2026-08-28 - The high-performance build system for JavaScript & TypeScript codebases, written in Go, 🚧 currently being migrated to Rust ([source](https://vercel.com/blog/turborepo-migration-go-rust)).
-* [Fast Node Manager (fnm)](https://github.com/Schniz/fnm) ⭐ 26,726 | 🐛 241 | 🌐 Rust | 📅 2026-07-24 - Node.js version manager, written in Rust.
+* [Turborepo](https://github.com/vercel/turborepo) ⭐ 31,030 | 🐛 14 | 🌐 Rust | 📅 2026-08-29 - The high-performance build system for JavaScript & TypeScript codebases, written in Go, 🚧 currently being migrated to Rust ([source](https://vercel.com/blog/turborepo-migration-go-rust)).
+* [Fast Node Manager (fnm)](https://github.com/Schniz/fnm) ⭐ 26,725 | 🐛 241 | 🌐 Rust | 📅 2026-07-24 - Node.js version manager, written in Rust.
 * [Wrangler](https://github.com/cloudflare/wrangler) ⚠️ Archived - CLI tool to develop Clouflare Workers, written in Rust.
 * [Blueboat](https://github.com/losfair/blueboat) ⭐ 1,924 | 🐛 31 | 🌐 Rust | 📅 2023-02-23 – all-in-one, multi-tenant serverless JavaScript runtime, written in Rust.
 * [Proto](https://github.com/moonrepo/proto) ⭐ 1,404 | 🐛 24 | 🌐 Rust | 📅 2026-08-27 – A multi-language version and dependency manager, written in Rust.

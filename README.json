@@ -10,12 +10,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Rust-based platform for the Web",
+            "homepage": "https://swc.rs",
             "id": 115110181,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T06:49:28Z",
+            "open_issues": 412,
             "owner": "swc-project",
             "repo": "swc",
-            "stars": 34189
+            "stars": 34189,
+            "topics": [
+              "babel",
+              "compiler",
+              "ecmascript",
+              "ecmascript-parser",
+              "javascript",
+              "parser",
+              "rust",
+              "swc",
+              "typescript",
+              "typescript-compiler",
+              "typescript-parser"
+            ]
           },
           "first_seen": "2026-08-29T00:32:35.081Z"
         },
@@ -26,12 +43,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Relay is a JavaScript framework for building data-driven React applications.",
+            "homepage": "https://relay.dev",
             "id": 40508605,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-08-28T22:48:23Z",
+            "open_issues": 857,
             "owner": "facebook",
             "repo": "relay",
-            "stars": 18958
+            "stars": 18958,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:32:35.081Z"
         },
@@ -42,12 +64,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A JavaScript checker and optimizer.",
+            "homepage": "https://developers.google.com/closure/compiler/",
             "id": 18845024,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T16:20:34Z",
+            "open_issues": 917,
             "owner": "google",
             "repo": "closure-compiler",
-            "stars": 7676
+            "stars": 7676,
+            "topics": [
+              "closure-compiler",
+              "javascript",
+              "optimization",
+              "typechecking"
+            ]
           },
           "first_seen": "2026-08-29T00:32:35.081Z"
         }
@@ -64,12 +96,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Boa is an embeddable Javascript engine written in Rust.",
+            "homepage": null,
             "id": 144073539,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-08-28T19:42:33Z",
+            "open_issues": 253,
             "owner": "boa-dev",
             "repo": "boa",
-            "stars": 7508
+            "stars": 7508,
+            "topics": [
+              "ecmascript",
+              "hacktoberfest",
+              "interpreter",
+              "javascript",
+              "javascript-engine",
+              "javascript-interpreter",
+              "parser",
+              "runtime",
+              "rust",
+              "rust-crate",
+              "wasm",
+              "webassembly"
+            ]
           },
           "first_seen": "2026-08-29T00:32:35.081Z"
         },
@@ -80,12 +130,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ECMAScript/JavaScript engine in pure Go",
+            "homepage": null,
             "id": 72888736,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-26T20:49:19Z",
+            "open_issues": 32,
             "owner": "dop251",
             "repo": "goja",
-            "stars": 7059
+            "stars": 7059,
+            "topics": [
+              "golang",
+              "javascript"
+            ]
           },
           "first_seen": "2026-08-29T00:32:35.081Z"
         }
@@ -102,12 +160,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A  (WIP) Extremely fast JavaScript and TypeScript linter and Rust crate",
+            "homepage": "http://rslint.org",
             "id": 253669507,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2023-03-05T13:40:47Z",
+            "open_issues": 41,
             "owner": "rslint",
             "repo": "rslint",
-            "stars": 2730
+            "stars": 2730,
+            "topics": [
+              "javascript",
+              "javascript-linter",
+              "linter",
+              "parallel",
+              "parser",
+              "rust",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-29T00:32:35.081Z"
         },
@@ -118,12 +189,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Blazing fast linter for JavaScript and TypeScript written in Rust",
+            "homepage": "https://lint.deno.land/",
             "id": 250790125,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-07-23T12:51:44Z",
+            "open_issues": 166,
             "owner": "denoland",
             "repo": "deno_lint",
-            "stars": 1584
+            "stars": 1584,
+            "topics": [
+              "deno",
+              "javascript",
+              "linters",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-29T00:32:35.081Z"
         }
@@ -140,12 +221,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Build system optimized for JavaScript and TypeScript, written in Rust",
+            "homepage": "https://turborepo.dev",
             "id": 413918947,
             "language": "Rust",
-            "last_commit": "2026-08-28T23:35:18Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T04:32:10Z",
+            "open_issues": 14,
             "owner": "vercel",
             "repo": "turborepo",
-            "stars": 31029
+            "stars": 31030,
+            "topics": [
+              "build-system",
+              "build-tool",
+              "javascript",
+              "monorepo",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-29T00:32:35.081Z"
         },
@@ -156,12 +248,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🚀 Fast and simple Node.js version manager, built in Rust",
+            "homepage": "https://fnm.vercel.app",
             "id": 166045424,
             "language": "Rust",
+            "license": "GPL-3.0",
             "last_commit": "2026-07-24T14:28:38Z",
+            "open_issues": 241,
             "owner": "Schniz",
             "repo": "fnm",
-            "stars": 26726
+            "stars": 26725,
+            "topics": [
+              "hacktoberfest",
+              "javascript",
+              "nodejs",
+              "nvm",
+              "reasonml",
+              "version"
+            ]
           },
           "first_seen": "2026-08-29T00:32:35.081Z"
         },
@@ -172,12 +276,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "🤠  Home to Wrangler v1 (deprecated)",
+            "homepage": "https://workers.cloudflare.com",
             "id": 175043545,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2023-08-03T18:15:03Z",
+            "open_issues": 0,
             "owner": "cloudflare",
             "repo": "wrangler-legacy",
-            "stars": 3192
+            "stars": 3192,
+            "topics": [
+              "cli",
+              "cloudflare-workers",
+              "rust",
+              "serverless"
+            ]
           },
           "first_seen": "2026-08-29T00:32:35.081Z"
         },
@@ -188,12 +302,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "All-in-one, multi-tenant serverless JavaScript runtime.",
+            "homepage": "https://blueboat.io",
             "id": 325985449,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2023-02-23T01:32:48Z",
+            "open_issues": 31,
             "owner": "losfair",
             "repo": "blueboat",
-            "stars": 1924
+            "stars": 1924,
+            "topics": [
+              "javascript",
+              "runtime",
+              "rust",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-29T00:32:35.081Z"
         },
@@ -204,12 +328,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A pluggable multi-language version manager.",
+            "homepage": "https://moonrepo.dev/proto",
             "id": 602787735,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-08-27T21:32:06Z",
+            "open_issues": 24,
             "owner": "moonrepo",
             "repo": "proto",
-            "stars": 1404
+            "stars": 1404,
+            "topics": [
+              "bun",
+              "deno",
+              "golang",
+              "nodejs",
+              "toolchain",
+              "toolchain-manager",
+              "version-manager"
+            ]
           },
           "first_seen": "2026-08-29T00:32:35.081Z"
         },
@@ -220,12 +357,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Low-overhead lexer dedicated to ES module parsing for fast analysis",
+            "homepage": null,
             "id": 201167785,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-27T13:15:01Z",
+            "open_issues": 4,
             "owner": "guybedford",
             "repo": "es-module-lexer",
-            "stars": 1032
+            "stars": 1032,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:32:35.081Z"
         },
@@ -236,12 +378,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An experimental package management tool for JavaScript. Upto 30x faster installation of dependencies using pre-flattened dependency trees.",
+            "homepage": "https://voltpkg.com",
             "id": 366093587,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-05-29T21:18:09Z",
+            "open_issues": 12,
             "owner": "suptejas",
             "repo": "volt",
-            "stars": 924
+            "stars": 924,
+            "topics": [
+              "fast",
+              "hacktoberfest",
+              "javascript",
+              "js",
+              "new",
+              "node",
+              "package-manager",
+              "rust",
+              "volt"
+            ]
           },
           "first_seen": "2026-08-29T00:32:35.081Z"
         },
@@ -252,12 +409,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Helps you find unused dependencies in Nodejs applications.",
+            "homepage": null,
             "id": 367637789,
             "language": "Rust",
+            "license": null,
             "last_commit": "2022-06-01T07:22:08Z",
+            "open_issues": 1,
             "owner": "saiumesh535",
             "repo": "npm-dep-chek-rust",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:32:35.081Z"
         }
@@ -266,15 +428,23 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T00:32:35.081Z",
+    "last_updated": "2026-08-29T04:38:51.235Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of JavaScript tooling not written in JavaScript",
+      "homepage": null,
       "id": 357798597,
       "language": null,
+      "license": null,
       "last_commit": "2023-09-03T08:08:31Z",
+      "open_issues": 8,
       "owner": "RobinCsl",
       "repo": "awesome-js-tooling-not-in-js",
-      "stars": 751
+      "stars": 751,
+      "topics": [
+        "awesome",
+        "awesome-list"
+      ]
     },
     "original_repository_sha": "8ac1270211de54956d1335a63d56772f4a99e964",
     "enhanced_repository": "enhansome/enhansome-js-tooling-not-in-js",
