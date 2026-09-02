@@ -15,11 +15,11 @@
             "id": 115110181,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-01T15:15:56Z",
-            "open_issues": 415,
+            "last_commit": "2026-09-02T10:08:18Z",
+            "open_issues": 417,
             "owner": "swc-project",
             "repo": "swc",
-            "stars": 34191,
+            "stars": 34189,
             "topics": [
               "babel",
               "compiler",
@@ -48,11 +48,11 @@
             "id": 40508605,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-01T18:09:18Z",
-            "open_issues": 859,
+            "last_commit": "2026-09-02T18:05:49Z",
+            "open_issues": 861,
             "owner": "facebook",
             "repo": "relay",
-            "stars": 18959,
+            "stars": 18962,
             "topics": []
           },
           "first_seen": "2026-08-29T00:32:35.081Z"
@@ -69,7 +69,7 @@
             "id": 18845024,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-01T19:15:22Z",
+            "last_commit": "2026-09-02T17:04:43Z",
             "open_issues": 916,
             "owner": "google",
             "repo": "closure-compiler",
@@ -105,7 +105,7 @@
             "open_issues": 201,
             "owner": "boa-dev",
             "repo": "boa",
-            "stars": 7526,
+            "stars": 7527,
             "topics": [
               "ecmascript",
               "hacktoberfest",
@@ -139,7 +139,7 @@
             "open_issues": 30,
             "owner": "dop251",
             "repo": "goja",
-            "stars": 7066,
+            "stars": 7070,
             "topics": [
               "golang",
               "javascript"
@@ -169,7 +169,7 @@
             "open_issues": 41,
             "owner": "rslint",
             "repo": "rslint",
-            "stars": 2730,
+            "stars": 2729,
             "topics": [
               "javascript",
               "javascript-linter",
@@ -226,11 +226,11 @@
             "id": 413918947,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-01T18:14:10Z",
-            "open_issues": 15,
+            "last_commit": "2026-09-02T17:07:42Z",
+            "open_issues": 14,
             "owner": "vercel",
             "repo": "turborepo",
-            "stars": 31041,
+            "stars": 31044,
             "topics": [
               "build-system",
               "build-tool",
@@ -257,7 +257,7 @@
             "open_issues": 241,
             "owner": "Schniz",
             "repo": "fnm",
-            "stars": 26750,
+            "stars": 26772,
             "topics": [
               "hacktoberfest",
               "javascript",
@@ -333,11 +333,11 @@
             "id": 602787735,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-01T18:51:39Z",
-            "open_issues": 25,
+            "last_commit": "2026-09-02T05:38:00Z",
+            "open_issues": 22,
             "owner": "moonrepo",
             "repo": "proto",
-            "stars": 1405,
+            "stars": 1404,
             "topics": [
               "bun",
               "deno",
@@ -366,7 +366,7 @@
             "open_issues": 4,
             "owner": "guybedford",
             "repo": "es-module-lexer",
-            "stars": 1032,
+            "stars": 1033,
             "topics": []
           },
           "first_seen": "2026-08-29T00:32:35.081Z"
@@ -387,7 +387,7 @@
             "open_issues": 12,
             "owner": "suptejas",
             "repo": "volt",
-            "stars": 924,
+            "stars": 923,
             "topics": [
               "fast",
               "hacktoberfest",
@@ -428,7 +428,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T19:21:52.116Z",
+    "last_updated": "2026-09-02T19:21:43.844Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of JavaScript tooling not written in JavaScript",
