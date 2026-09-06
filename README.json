@@ -15,8 +15,8 @@
             "id": 115110181,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-05T17:59:53Z",
-            "open_issues": 473,
+            "last_commit": "2026-09-06T17:57:08Z",
+            "open_issues": 444,
             "owner": "swc-project",
             "repo": "swc",
             "stars": 34196,
@@ -52,7 +52,7 @@
             "open_issues": 862,
             "owner": "facebook",
             "repo": "relay",
-            "stars": 18963,
+            "stars": 18962,
             "topics": []
           },
           "first_seen": "2026-08-29T00:32:35.081Z"
@@ -101,11 +101,11 @@
             "id": 144073539,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-05T08:05:58Z",
-            "open_issues": 204,
+            "last_commit": "2026-09-05T18:47:31Z",
+            "open_issues": 206,
             "owner": "boa-dev",
             "repo": "boa",
-            "stars": 7534,
+            "stars": 7535,
             "topics": [
               "ecmascript",
               "hacktoberfest",
@@ -226,11 +226,11 @@
             "id": 413918947,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-05T03:49:40Z",
-            "open_issues": 17,
+            "last_commit": "2026-09-06T18:12:57Z",
+            "open_issues": 14,
             "owner": "vercel",
             "repo": "turborepo",
-            "stars": 31061,
+            "stars": 31066,
             "topics": [
               "build-system",
               "build-tool",
@@ -254,10 +254,10 @@
             "language": "Rust",
             "license": "GPL-3.0",
             "last_commit": "2026-07-24T14:28:38Z",
-            "open_issues": 242,
+            "open_issues": 243,
             "owner": "Schniz",
             "repo": "fnm",
-            "stars": 26789,
+            "stars": 26797,
             "topics": [
               "hacktoberfest",
               "javascript",
@@ -337,7 +337,7 @@
             "open_issues": 21,
             "owner": "moonrepo",
             "repo": "proto",
-            "stars": 1406,
+            "stars": 1407,
             "topics": [
               "bun",
               "deno",
@@ -428,7 +428,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T18:12:35.914Z",
+    "last_updated": "2026-09-06T18:14:28.554Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of JavaScript tooling not written in JavaScript",
