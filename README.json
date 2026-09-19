@@ -19,7 +19,7 @@
             "open_issues": 438,
             "owner": "swc-project",
             "repo": "swc",
-            "stars": 34198,
+            "stars": 34200,
             "topics": [
               "babel",
               "compiler",
@@ -49,7 +49,7 @@
             "language": "Rust",
             "license": "MIT",
             "last_commit": "2026-09-18T18:00:56Z",
-            "open_issues": 862,
+            "open_issues": 863,
             "owner": "facebook",
             "repo": "relay",
             "stars": 18964,
@@ -70,7 +70,7 @@
             "language": "JavaScript",
             "license": "Apache-2.0",
             "last_commit": "2026-09-17T23:28:18Z",
-            "open_issues": 917,
+            "open_issues": 918,
             "owner": "google",
             "repo": "closure-compiler",
             "stars": 7686,
@@ -101,7 +101,7 @@
             "id": 144073539,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-18T18:10:51Z",
+            "last_commit": "2026-09-19T08:06:47Z",
             "open_issues": 212,
             "owner": "boa-dev",
             "repo": "boa",
@@ -139,7 +139,7 @@
             "open_issues": 33,
             "owner": "dop251",
             "repo": "goja",
-            "stars": 7101,
+            "stars": 7103,
             "topics": [
               "golang",
               "javascript"
@@ -226,11 +226,11 @@
             "id": 413918947,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-18T17:31:50Z",
-            "open_issues": 10,
+            "last_commit": "2026-09-19T13:55:29Z",
+            "open_issues": 11,
             "owner": "vercel",
             "repo": "turborepo",
-            "stars": 31108,
+            "stars": 31116,
             "topics": [
               "build-system",
               "build-tool",
@@ -257,7 +257,7 @@
             "open_issues": 248,
             "owner": "Schniz",
             "repo": "fnm",
-            "stars": 26886,
+            "stars": 26896,
             "topics": [
               "hacktoberfest",
               "javascript",
@@ -337,7 +337,7 @@
             "open_issues": 25,
             "owner": "moonrepo",
             "repo": "proto",
-            "stars": 1416,
+            "stars": 1418,
             "topics": [
               "bun",
               "deno",
@@ -428,7 +428,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T19:00:29.695Z",
+    "last_updated": "2026-09-19T18:34:10.077Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of JavaScript tooling not written in JavaScript",
