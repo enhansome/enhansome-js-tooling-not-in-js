@@ -15,11 +15,11 @@
             "id": 115110181,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-31T03:42:04Z",
-            "open_issues": 404,
+            "last_commit": "2026-11-01T19:01:46Z",
+            "open_issues": 410,
             "owner": "swc-project",
             "repo": "swc",
-            "stars": 34205,
+            "stars": 34208,
             "topics": [
               "babel",
               "compiler",
@@ -48,7 +48,7 @@
             "id": 40508605,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-10-31T14:37:01Z",
+            "last_commit": "2026-11-01T17:54:15Z",
             "open_issues": 862,
             "owner": "meta",
             "repo": "relay",
@@ -69,11 +69,11 @@
             "id": 18845024,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-31T01:34:47Z",
+            "last_commit": "2026-11-01T05:25:47Z",
             "open_issues": 915,
             "owner": "google",
             "repo": "closure-compiler",
-            "stars": 7700,
+            "stars": 7701,
             "topics": [
               "closure-compiler",
               "javascript",
@@ -105,7 +105,7 @@
             "open_issues": 237,
             "owner": "boa-dev",
             "repo": "boa",
-            "stars": 7651,
+            "stars": 7654,
             "topics": [
               "ecmascript",
               "hacktoberfest",
@@ -230,7 +230,7 @@
             "open_issues": 33,
             "owner": "vercel",
             "repo": "turborepo",
-            "stars": 31287,
+            "stars": 31292,
             "topics": [
               "build-system",
               "build-tool",
@@ -257,7 +257,7 @@
             "open_issues": 256,
             "owner": "Schniz",
             "repo": "fnm",
-            "stars": 27253,
+            "stars": 27265,
             "topics": [
               "hacktoberfest",
               "javascript",
@@ -428,7 +428,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T19:55:14.021Z",
+    "last_updated": "2026-11-01T20:26:58.905Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of JavaScript tooling not written in JavaScript",
