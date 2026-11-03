@@ -18,19 +18,19 @@
 * [Parcel](https://parceljs.org) - Web application bundler, with its JavaScript transformer written in Rust on top of swc ([source](https://parceljs.org/blog/beta3/)).
 * [Bun](https://bun.sh/) - JS, TS, JSX bundler, JS and CSS transpiler, dev server and JS runtime environment, written in Zig.
 * [Turbopack](https://turbo.build/pack) - incremental bundler optimized for JavaScript and TypeScript, written in Rust.
-* [Rspack](https://github.com/web-infra-dev/rspack) ⭐ 12,970 | 🐛 259 | 🌐 Rust | 📅 2026-11-02 – A fast web bundler (drop-in replacement for Webpack), written in Rust.
+* [Rspack](https://github.com/web-infra-dev/rspack) ⭐ 12,965 | 🐛 262 | 🌐 Rust | 📅 2026-11-03 – A fast web bundler (drop-in replacement for Webpack), written in Rust.
 
 ## Compilers
 
-* [swc](https://github.com/swc-project/swc) ⭐ 34,210 | 🐛 408 | 🌐 Rust | 📅 2026-11-02 - TypeScript/JavaScript compiler in Rust.
-* [Relay](https://github.com/facebook/relay) ⭐ 18,969 | 🐛 862 | 🌐 Rust | 📅 2026-11-02 - JavaScript framework for building data-driven React applications, [compiler](https://github.com/facebook/relay/tree/main/compiler) ⭐ 18,969 | 🐛 862 | 🌐 Rust | 📅 2026-11-02 in Rust.
-* [Closure Compiler](https://github.com/google/closure-compiler) ⭐ 7,703 | 🐛 915 | 🌐 JavaScript | 📅 2026-11-02 - in Java.
+* [swc](https://github.com/swc-project/swc) ⭐ 34,210 | 🐛 416 | 🌐 Rust | 📅 2026-11-03 - TypeScript/JavaScript compiler in Rust.
+* [Relay](https://github.com/facebook/relay) ⭐ 18,968 | 🐛 862 | 🌐 Rust | 📅 2026-11-03 - JavaScript framework for building data-driven React applications, [compiler](https://github.com/facebook/relay/tree/main/compiler) ⭐ 18,968 | 🐛 862 | 🌐 Rust | 📅 2026-11-03 in Rust.
+* [Closure Compiler](https://github.com/google/closure-compiler) ⭐ 7,703 | 🐛 925 | 🌐 JavaScript | 📅 2026-11-03 - in Java.
 * [Paperclip](https://paperclip.dev/) - Presentational component compiler in Rust + WASM.
 
 ## Engines
 
-* [Boa](https://github.com/boa-dev/boa) ⭐ 7,657 | 🐛 240 | 🌐 Rust | 📅 2026-10-31 - Embeddable and experimental Javascript engine, written in Rust.
-* [Goja](https://github.com/dop251/goja) ⭐ 7,181 | 🐛 32 | 🌐 Go | 📅 2026-11-02 - ECMAScript/JavaScript engine, written in Go .
+* [Boa](https://github.com/boa-dev/boa) ⭐ 7,656 | 🐛 241 | 🌐 Rust | 📅 2026-10-31 - Embeddable and experimental Javascript engine, written in Rust.
+* [Goja](https://github.com/dop251/goja) ⭐ 7,184 | 🐛 32 | 🌐 Go | 📅 2026-11-03 - ECMAScript/JavaScript engine, written in Go .
 * [Hermes](https://hermesengine.dev/) - JavaScript engine optimized for React Native, written in C++.
 * [V8](https://v8.dev/) - High-performance JavaScript and WebAssembly engine, written in C++.
 * [JavaScriptCore](https://developer.apple.com/documentation/javascriptcore) – JavaScript engine for Swift, Objective-C, and C-based apps, written in C++.
@@ -41,7 +41,7 @@
 
 ## Linters
 
-* [RSLint](https://github.com/rslint/rslint) ⭐ 2,728 | 🐛 41 | 🌐 Rust | 📅 2023-03-05 - Extremely fast JavaScript and TypeScript linter, written in Rust. (WIP)
+* [RSLint](https://github.com/rslint/rslint) ⭐ 2,727 | 🐛 41 | 🌐 Rust | 📅 2023-03-05 - Extremely fast JavaScript and TypeScript linter, written in Rust. (WIP)
 * [Deno Lint](https://github.com/denoland/deno_lint) ⭐ 1,586 | 🐛 169 | 🌐 Rust | 📅 2026-09-25
 * [Flow](https://flow.org/) - Static type checker for JavaScript, written in OCaml.
 * [quick-lint-js](https://quick-lint-js.com/) - Written in C++.
@@ -50,11 +50,11 @@
 
 *If you can think of a more appropriate category for the items below, PRs welcome!*
 
-* [Turborepo](https://github.com/vercel/turborepo) ⭐ 31,298 | 🐛 23 | 🌐 Rust | 📅 2026-11-02 - The high-performance build system for JavaScript & TypeScript codebases, written in Go, 🚧 currently being migrated to Rust ([source](https://vercel.com/blog/turborepo-migration-go-rust)).
-* [Fast Node Manager (fnm)](https://github.com/Schniz/fnm) ⭐ 27,278 | 🐛 256 | 🌐 Rust | 📅 2026-10-26 - Node.js version manager, written in Rust.
+* [Turborepo](https://github.com/vercel/turborepo) ⭐ 31,298 | 🐛 24 | 🌐 Rust | 📅 2026-11-03 - The high-performance build system for JavaScript & TypeScript codebases, written in Go, 🚧 currently being migrated to Rust ([source](https://vercel.com/blog/turborepo-migration-go-rust)).
+* [Fast Node Manager (fnm)](https://github.com/Schniz/fnm) ⭐ 27,285 | 🐛 256 | 🌐 Rust | 📅 2026-10-26 - Node.js version manager, written in Rust.
 * [Wrangler](https://github.com/cloudflare/wrangler) ⚠️ Archived - CLI tool to develop Clouflare Workers, written in Rust.
-* [Blueboat](https://github.com/losfair/blueboat) ⭐ 1,920 | 🐛 31 | 🌐 Rust | 📅 2023-02-23 – all-in-one, multi-tenant serverless JavaScript runtime, written in Rust.
-* [Proto](https://github.com/moonrepo/proto) ⭐ 1,446 | 🐛 27 | 🌐 Rust | 📅 2026-10-28 – A multi-language version and dependency manager, written in Rust.
+* [Blueboat](https://github.com/losfair/blueboat) ⭐ 1,918 | 🐛 31 | 🌐 Rust | 📅 2023-02-23 – all-in-one, multi-tenant serverless JavaScript runtime, written in Rust.
+* [Proto](https://github.com/moonrepo/proto) ⭐ 1,447 | 🐛 27 | 🌐 Rust | 📅 2026-10-28 – A multi-language version and dependency manager, written in Rust.
 * [es-module-lexer](https://github.com/guybedford/es-module-lexer) ⭐ 1,036 | 🐛 4 | 🌐 JavaScript | 📅 2026-10-15 - JavaScript module syntax lexer, written in C.
 * [Volt](https://github.com/voltpkg/volt) ⭐ 921 | 🐛 12 | 🌐 Rust | 📅 2026-05-29 - JavaScript Package Manager, written in Rust.
 * [npm-dep-check-rust](https://github.com/saiumesh535/npm-dep-chek-rust) ⭐ 11 | 🐛 1 | 🌐 Rust | 📅 2022-06-01 - Find unused dependencies in Node.js applications, written in Rust.
@@ -72,4 +72,4 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-03._
