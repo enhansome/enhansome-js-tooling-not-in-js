@@ -15,11 +15,11 @@
             "id": 115110181,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-09T17:16:31Z",
-            "open_issues": 406,
+            "last_commit": "2026-11-10T11:56:54Z",
+            "open_issues": 410,
             "owner": "swc-project",
             "repo": "swc",
-            "stars": 34211,
+            "stars": 34213,
             "topics": [
               "babel",
               "compiler",
@@ -48,11 +48,11 @@
             "id": 40508605,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-11-09T22:47:44Z",
-            "open_issues": 862,
+            "last_commit": "2026-11-10T21:20:53Z",
+            "open_issues": 843,
             "owner": "meta",
             "repo": "relay",
-            "stars": 18980,
+            "stars": 18981,
             "topics": []
           },
           "first_seen": "2026-08-29T00:32:35.081Z"
@@ -69,11 +69,11 @@
             "id": 18845024,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-09T20:31:29Z",
-            "open_issues": 923,
+            "last_commit": "2026-11-10T19:22:01Z",
+            "open_issues": 922,
             "owner": "google",
             "repo": "closure-compiler",
-            "stars": 7704,
+            "stars": 7705,
             "topics": [
               "closure-compiler",
               "javascript",
@@ -101,11 +101,11 @@
             "id": 144073539,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-11-09T03:50:18Z",
-            "open_issues": 251,
+            "last_commit": "2026-11-10T19:58:57Z",
+            "open_issues": 256,
             "owner": "boa-dev",
             "repo": "boa",
-            "stars": 7670,
+            "stars": 7674,
             "topics": [
               "ecmascript",
               "hacktoberfest",
@@ -135,11 +135,11 @@
             "id": 72888736,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-11-08T15:37:12Z",
+            "last_commit": "2026-11-10T20:48:35Z",
             "open_issues": 35,
             "owner": "dop251",
             "repo": "goja",
-            "stars": 7187,
+            "stars": 7191,
             "topics": [
               "golang",
               "javascript"
@@ -226,11 +226,11 @@
             "id": 413918947,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-11-09T23:30:29Z",
-            "open_issues": 31,
+            "last_commit": "2026-11-10T21:40:21Z",
+            "open_issues": 25,
             "owner": "vercel",
             "repo": "turborepo",
-            "stars": 31319,
+            "stars": 31323,
             "topics": [
               "build-system",
               "build-tool",
@@ -257,7 +257,7 @@
             "open_issues": 258,
             "owner": "Schniz",
             "repo": "fnm",
-            "stars": 27353,
+            "stars": 27368,
             "topics": [
               "hacktoberfest",
               "javascript",
@@ -311,7 +311,7 @@
             "open_issues": 31,
             "owner": "losfair",
             "repo": "blueboat",
-            "stars": 1918,
+            "stars": 1919,
             "topics": [
               "javascript",
               "runtime",
@@ -333,11 +333,11 @@
             "id": 602787735,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-11-09T16:06:59Z",
+            "last_commit": "2026-11-10T20:42:18Z",
             "open_issues": 30,
             "owner": "moonrepo",
             "repo": "proto",
-            "stars": 1450,
+            "stars": 1453,
             "topics": [
               "bun",
               "deno",
@@ -387,7 +387,7 @@
             "open_issues": 12,
             "owner": "suptejas",
             "repo": "volt",
-            "stars": 920,
+            "stars": 921,
             "topics": [
               "fast",
               "hacktoberfest",
@@ -428,7 +428,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T00:12:13.889Z",
+    "last_updated": "2026-11-10T21:46:28.832Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of JavaScript tooling not written in JavaScript",
@@ -440,7 +440,7 @@
       "open_issues": 7,
       "owner": "RobinCsl",
       "repo": "awesome-js-tooling-not-in-js",
-      "stars": 751,
+      "stars": 752,
       "topics": [
         "awesome",
         "awesome-list"
